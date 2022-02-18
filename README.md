@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Leaylu/Leaylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a target="_blank">
+  <a href="https://github.com/Leaylu"></a>
+  <a href="https://github.com/Leaylu"><img align="left" width="470" src="https://github-readme-stats.vercel.app/api?username=Leaylu&show_icons=true" /></a>
+</a>
+
+
+- :computer: I’m currently working on **Java**
+- :pushpin: I’m currently learning   **Vue**
